@@ -1,29 +1,28 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/komandar/go-booking-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<div align="center">
 
-<h3 align="center">Go Booking App</h3>
+# Go Booking App Example
 
-  <p align="center">
-    Just a small piece of code to test the possibilities of go.
-    <br/>
-    <br/>
-    <a href="https://github.com/komandar/go-booking-app/issues">Report Bug</a>
-    .
-    <a href="https://github.com/komandar/go-booking-app/issues">Request Feature</a>
-  </p>
-</p>
+Just a small piece of code to test the possibilities of go.
 
-### Prerequisites
+[![Build](https://github.com/komandar/go-booking-app/workflows/build/badge.svg)](https://github.com/komandar/go-booking-app/actions)
+[![Version](https://img.shields.io/github/v/tag/komandar/go-booking-app)](https://github.com/komandar/go-booking-app/releases)
+[![Licence](https://img.shields.io/github/license/komandar/go-booking-app)](LICENSE)
 
-Installation instructions for Go can be found [here](https://go.dev/doc/install).
+<img src="https://raw.githubusercontent.com/komandar/assets/main/src/golang-template/showcase.png" alt="Showcase">
 
-### Installation
+</div>
 
-1. Clone the repo
+## Install
 
-```sh
-git clone https://github.com/komandar/go-booking-app.git
+```bash
+# Install project
+go get github.com/komandar/go-booking-app
+```
+
+## Usage
+
+Usage instructions go here.
+
+```bash
+go run main.go
 ```

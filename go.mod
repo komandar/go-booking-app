@@ -1,3 +1,3 @@
-module boocking-app
+module github.com/komandar/go-booking-app
 
-go 1.18
+go 1.19
